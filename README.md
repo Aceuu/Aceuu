@@ -2,7 +2,6 @@
 - 👀 I’m interested in front end developing
 - 🌱 I’m currently learning HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on different front end projects.
-- 📫 How to reach me oprisan_razvan@yahoo.com
 
 <!---
 Aceuu/Aceuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
